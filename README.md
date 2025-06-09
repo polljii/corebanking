@@ -23,8 +23,3 @@
 
 ![img1](https://github.com/polljii/corebanking/blob/main/corebanking1.png)
 
-![img2](https://github.com/polljii/corebanking/blob/main/corebanking2.png)
-
-![img3](https://github.com/polljii/corebanking/blob/main/corebanking3.png)
-
-![img4](https://github.com/polljii/corebanking/blob/main/corebanking4.png)
